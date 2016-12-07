@@ -1,0 +1,13 @@
+body {
+    background-color: #333333;
+    font-family: 'Verdana', 'Cambria', 'Times New Roman', 'serif';
+    text-align: center;
+}
+
+
+.border {
+    border: 2px  dotted  black;
+    border-radius: 10px;
+    background-color: #999A9B;
+    padding-left: 10px;
+}
